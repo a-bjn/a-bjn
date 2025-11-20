@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Next.js + Spring Boot e-commerce platform deployed on AWS.<br><br>🌱 I’m currently learning Spring Boot microservices and AWS architecture.<br><br>👯 I’m looking to collaborate on React, Next.js, TypeScript, or backend API projects.<br><br>🤔 I’m looking for help with scalable architecture and CI/CD best practices.<br><br>💬 Ask me about full-stack development, REST APIs, JWT auth, and AWS deployments.<br><br>📫 How to reach me: andreibejan55@yahoo.com<br> or github.com/a-bjn.<br><br>⚡ Fun fact: I love building side projects that solve real problems.
+🔭 I’m currently working on a Next.js + Spring Boot e-commerce platform deployed on AWS.<br><br>🌱 I’m currently learning Spring Boot microservices and AWS architecture.<br><br>👯 I’m looking to collaborate on React, Next.js, TypeScript, or backend API projects.<br><br>🤔 I’m looking for help with scalable architecture and CI/CD best practices.<br><br>💬 Ask me about full-stack development, REST APIs, JWT auth, and AWS deployments.<br><br>📫 How to reach me: andreibejan55@yahoo.com or github.com/a-bjn.<br><br>⚡ Fun fact: I love building side projects that solve real problems.
 
 
 ## 🌐 Socials:
